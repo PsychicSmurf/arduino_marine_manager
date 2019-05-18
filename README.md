@@ -17,9 +17,9 @@ Once built and deployed this software will allow:
 
 # Hardware
 This project is developed for an Arduino Mega 256<br/>
-https://store.arduino.cc/mega-2560-r3
+https://store.arduino.cc/mega-2560-r3<br/>
 Plugged into this is a Kuman 3.5 Inch Touch Screen LCD for Arduino UNO R3 MEGA 2560 with SD Card Socket SC3A-1<br/>
-https://www.amazon.co.uk/Kuman-Screen-Arduino-Socket-SC3A-1/dp/B075CXXL1M
+https://www.amazon.co.uk/Kuman-Screen-Arduino-Socket-SC3A-1/dp/B075CXXL1M<br/>
 As this LCD is for an Arduino UNO, I connected the Uno SPI pins to the Mega ones by soldering on jumper wires.
 
 # Platform
@@ -27,15 +27,15 @@ This project was developed within the Windows 10 environment
 
 # Software Development
 As the Arduino IDE is limited, this project is developed using Visual Studio Code<br/>
-https://code.visualstudio.com/
+https://code.visualstudio.com/<br/>
 On top of that PlatformIO was added as an extension<br/>
-https://platformio.org/
+https://platformio.org/<br/>
 The Arduino IDE still needs to be installed to gain access to the default libraries<br/>
-https://www.arduino.cc/
+https://www.arduino.cc/<br/>
 Hardware libraries are stored within this repo
 
 # External Tools
 This project uses Astyle to format the code. The astylerc file that configures this is in the root of this repo<br/>
-http://astyle.sourceforge.net/
+http://astyle.sourceforge.net/<br/>
 This project uses Source Monitor to provide metrics on the source code. The Source Monitor project file resides in the root of this repo<br/>
-http://www.campwoodsw.com/sourcemonitor.html
+http://www.campwoodsw.com/sourcemonitor.html<br/>
