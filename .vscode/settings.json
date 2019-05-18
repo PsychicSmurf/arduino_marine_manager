@@ -1,0 +1,13 @@
+{
+    "terminal.integrated.env.windows": {
+        "PATH": "C:\\Users\\davelewis\\.platformio\\penv\\Scripts;C:\\Users\\davelewis\\.platformio\\penv;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\ProgramData\\Oracle\\Java\\javapath;%SystemRoot%\\system32;%SystemRoot%;%SystemRoot%\\System32\\Wbem;%SYSTEMROOT%\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\Kaspersky Lab\\Kaspersky Endpoint Security 10 for Windows SP2\\;C:\\Program Files\\PuTTY\\;C:\\Program Files (x86)\\Microchip\\MPLAB C32 Suite\\bin;C:\\Program Files\\dotnet\\;C:\\Program Files\\Microsoft SQL Server\\130\\Tools\\Binn\\;C:\\usr\\bin;C:\\Program Files\\Microsoft\\Web Platform Installer\\;C:\\Program Files (x86)\\Microsoft ASP.NET\\ASP.NET Web Pages\\v1.0\\;C:\\Program Files\\Microsoft SQL Server\\110\\Tools\\Binn\\;C:\\Users\\davelewis\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Program Files (x86)\\Nmap;C:\\Program Files\\PuTTY;C:\\Users\\davelewis\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;c:\\Windows\\System32;;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\ProgramData\\Oracle\\Java\\javapath;%SystemRoot%\\system32;%SystemRoot%;%SystemRoot%\\System32\\Wbem;%SYSTEMROOT%\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\Kaspersky Lab\\Kaspersky Endpoint Security 10 for Windows SP2\\;C:\\Program Files\\PuTTY\\;C:\\Program Files (x86)\\Microchip\\MPLAB C32 Suite\\bin;C:\\Program Files\\dotnet\\;C:\\Program Files\\Microsoft SQL Server\\130\\Tools\\Binn\\;C:\\usr\\bin;C:\\Program Files\\Microsoft\\Web Platform Installer\\;C:\\Program Files (x86)\\Microsoft ASP.NET\\ASP.NET Web Pages\\v1.0\\;C:\\Program Files\\Microsoft SQL Server\\110\\Tools\\Binn\\;C:\\Users\\davelewis\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Program Files (x86)\\Nmap;C:\\Program Files\\PuTTY;C:\\Users\\davelewis\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;c:\\Windows\\System32;",
+        "PLATFORMIO_CALLER": "vscode"
+    },
+    "files.exclude": {
+        "3.5inch_Arduino_ILI9486_V1.0/": true,
+        "documents/": true,
+        "include/": true,
+        "lib/": true,
+        "test/": true
+    }
+}
