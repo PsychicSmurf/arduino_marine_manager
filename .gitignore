@@ -10,6 +10,8 @@
 *.bin
 *.obj
 *.db
+*.db-shm
+*.db-wal
 *.sqlite
 documents
 3.5inch_Arduino_ILI9486_V1.0
