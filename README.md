@@ -1,5 +1,6 @@
 # Arduino Marine Manager
-Embedded application, running on an Arduino and using a LCD display, to help with maintenance on a marine fish tank
+Embedded application, running on an Arduino and using a LCD display, to help with maintenance on a coral/marine aquarium.
+http://www.hollywoodfishfarm.co.nz/wp-content/uploads/2015/10/marine-aquarium.jpg
 
 # Basic Usage
 Once built and deployed this software will allow:
@@ -16,8 +17,9 @@ Once built and deployed this software will allow:
 
 # Hardware
 This project is developed for an Arduino Mega 256
-
+https://store.arduino.cc/mega-2560-r3
 Plugged into this is a Kuman 3.5 Inch Touch Screen LCD for Arduino UNO R3 MEGA 2560 with SD Card Socket SC3A-1
+https://www.amazon.co.uk/Kuman-Screen-Arduino-Socket-SC3A-1/dp/B075CXXL1M
 As this LCD is for an Arduino UNO, I connected the Uno SPI pins to the Mega ones by soldering on jumper wires.
 
 # Platform
@@ -25,6 +27,15 @@ This project was developed within the Windows 10 environment
 
 # Software Development
 As the Arduino IDE is limited, this project is developed using Visual Studio Code
+https://code.visualstudio.com/
 On top of that PlatformIO was added as an extension
+https://platformio.org/
 The Arduino IDE still needs to be installed to gain access to the default libraries
-Other libraries are stored within this repo
+https://www.arduino.cc/
+Hardware libraries are stored within this repo
+
+# External Tools
+This project uses Astyle to format the code. The astylerc file that configures this is in the root of this repo
+http://astyle.sourceforge.net/
+This project uses Source Monitor to provide metrics on the source code. The Source Monitor project file resides in the root of this repo
+http://www.campwoodsw.com/sourcemonitor.html
