@@ -30,6 +30,8 @@ As the Arduino IDE is limited, this project is developed using Visual Studio Cod
 https://code.visualstudio.com/<br/>
 On top of that PlatformIO was added as an extension<br/>
 https://platformio.org/<br/>
+Also, to make pull requests simpler, an extra plugin was added<br/>
+https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github<br/>
 The Arduino IDE still needs to be installed to gain access to the default libraries<br/>
 https://www.arduino.cc/<br/>
 Hardware libraries are stored within this repo
